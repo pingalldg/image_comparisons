@@ -1,1 +1,1 @@
-## AMPT-initialized hydrodynamic evolutions have been compared by examining differences in temperature profiles at various times.
+## AMPT-initialized hydrodynamic evolutions against AMPT only evolutions (with smearing particle info alongwith assigning temperature) have been compared by examining differences in temperature profiles at various times.
