@@ -1,0 +1,1 @@
+Only outputs of the ssim_TbyTMax.py is stored
